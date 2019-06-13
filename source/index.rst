@@ -3,23 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Sphinx入门
-==========
+HTSST UK LAB
+==============
 
-本文源码: https://github.com/azuwis/sphinx_demo
+source: https://github.com/joyx/sphinx_demo
+branch: dev
 
-目录:
+Outline:
 
 .. toctree::
    :numbered:
    :maxdepth: 2
 
-   setup
-   usage
-   demo
-   rest
-   quickstart
-   quickref
-   cheatsheet
-   restructuredtext
-   directives
+   lab

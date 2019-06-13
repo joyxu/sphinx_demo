@@ -37,12 +37,12 @@ source_suffix = '.rst'
 #source_encoding = 'utf-8-sig'
 
 # The master toctree document.
-master_doc = 'index'
+master_doc = 'lab'
 
 # General information about the project.
-project = u'Sphinx入门'
-copyright = u'2013, Azuwis'
-author = u'Azuwis'
+project = u'HTSST UK Lab'
+copyright = u'2019, HTSST'
+author = u'JoyXu'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
